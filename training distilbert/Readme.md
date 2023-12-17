@@ -1,0 +1,1 @@
+In this approach, I tried training the distilbert base model on some of the essays written by Humans and others are generated through some LLM.

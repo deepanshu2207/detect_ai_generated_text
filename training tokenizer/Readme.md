@@ -1,0 +1,1 @@
+In this approach, I have tried training the tokenizer on the training data first. Then, I have used TFIDF vectorizer to convert the tokenized data into vectors which is finally consumed by combination of 4 models (3 are SGDs with different configurations and 1 is multinomial classifier).
